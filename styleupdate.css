@@ -1,0 +1,8 @@
+.btn-success{
+    background-color: pink;
+}
+.jumbotron{
+    background-image: url("https://blog.prezi.com/wp-content/uploads/2019/03/rafael-de-nadai-588387-unsplash-1024x612.jpg");
+    color: white;
+    background-size: 100%;
+}
